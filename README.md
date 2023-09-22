@@ -1,6 +1,8 @@
 # NBAPlayerProject
 Runs five different analysis models to determine where in the draft order an NBA player was selected based on their lifetime statistics.
 
+Implemented in R.
+
 The five models used are:
 1. Linear Regression
 2. Decision Tree
